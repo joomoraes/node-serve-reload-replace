@@ -40,7 +40,7 @@
     "test:report": "opener coverage/lcov-report/index.html"
   },
   "devDependencies": {
-    "sinon": "^10.0.0",
+    "sinon": "^11.1.2",
     "tap": "^14.10.8"
   },
   "dependencies": {
